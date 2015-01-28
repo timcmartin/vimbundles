@@ -5,7 +5,11 @@ They are submodules of this repository.
 
 ## Getting Started
 
-* Clone into ~/.vimbundles, or clone and symlink ~/.vimbundles to your location
+* Clone into ~/.vimbundles
+
+== or ==
+
+clone and symlink ~/.vimbundles to your cloned location
 
 ```
 git clone https://github.com/timcmartin/vimbundles.git .vimbundles
