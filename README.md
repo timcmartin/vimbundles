@@ -9,7 +9,7 @@ They are submodules of this repository.
 
 == or ==
 
-* clone and symlink ~/.vimbundles to your cloned location
+* Clone and symlink ~/.vimbundles to your cloned location
 
 ```
 git clone https://github.com/timcmartin/vimbundles.git .vimbundles
