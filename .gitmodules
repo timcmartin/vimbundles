@@ -160,3 +160,6 @@
 [submodule "vimwiki"]
 	path = vimwiki
 	url = https://github.com/vim-scripts/vimwiki.git
+[submodule "rubocop"]
+	path = rubocop
+	url = git@github.com:bbatsov/rubocop
