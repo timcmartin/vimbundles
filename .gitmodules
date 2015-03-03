@@ -163,3 +163,6 @@
 [submodule "rubocop"]
 	path = rubocop
 	url = git@github.com:bbatsov/rubocop
+[submodule "nerdtree-git-plugin"]
+	path = nerdtree-git-plugin
+	url = git@github.com:scrooloose/nerdtree-git-plugin
