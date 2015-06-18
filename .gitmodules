@@ -166,3 +166,9 @@
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
 	url = git@github.com:scrooloose/nerdtree-git-plugin
+[submodule "vim-http-client"]
+	path = vim-http-client
+	url = git@github.com:aquach/vim-http-client
+[submodule "tmuxline.vim"]
+	path = tmuxline.vim
+	url = git@github.com:edkolev/tmuxline.vim
