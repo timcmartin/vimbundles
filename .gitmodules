@@ -172,3 +172,9 @@
 [submodule "tmuxline.vim"]
 	path = tmuxline.vim
 	url = git@github.com:edkolev/tmuxline.vim
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:bling/vim-airline
+[submodule "vim-airlineish"]
+	path = vim-airlineish
+	url = git@github.com:paranoida/vim-airlineish.git
