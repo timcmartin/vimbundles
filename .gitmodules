@@ -28,9 +28,6 @@
 [submodule "pbcopy.vim"]
 	path = pbcopy.vim
 	url = https://github.com/mortice/pbcopy.vim.git
-[submodule "powerline"]
-	path = powerline
-	url = https://github.com/timcmartin/powerline.git
 [submodule "puppet-syntax-vim"]
 	path = puppet-syntax-vim
 	url = https://github.com/puppetlabs/puppet-syntax-vim.git
@@ -49,9 +46,6 @@
 [submodule "tagbar"]
 	path = tagbar
 	url = https://github.com/majutsushi/tagbar.git
-[submodule "tmux-powerline"]
-	path = tmux-powerline
-	url = https://github.com/timcmartin/tmux-powerline.git
 [submodule "todo.txt-vim"]
 	path = todo.txt-vim
 	url = https://github.com/freitass/todo.txt-vim.git
