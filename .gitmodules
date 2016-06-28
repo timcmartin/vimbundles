@@ -172,3 +172,9 @@
 [submodule "vim-airlineish"]
 	path = vim-airlineish
 	url = git@github.com:paranoida/vim-airlineish.git
+[submodule "switch.vim"]
+	path = switch.vim
+	url = git@github.com:AndrewRadev/switch.vim.git
+[submodule "vim-windowswap"]
+	path = vim-windowswap
+	url = git@github.com:wesQ3/vim-windowswap.git
