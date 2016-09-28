@@ -178,3 +178,6 @@
 [submodule "vim-windowswap"]
 	path = vim-windowswap
 	url = git@github.com:wesQ3/vim-windowswap.git
+[submodule "calendar-vim"]
+	path = calendar-vim
+	url = git://github.com/mattn/calendar-vim
