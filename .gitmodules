@@ -25,6 +25,9 @@
 [submodule "nerdtree"]
 	path = nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "nerdtree-git-plugin"]
+	path = nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
 [submodule "pbcopy.vim"]
 	path = pbcopy.vim
 	url = https://github.com/mortice/pbcopy.vim.git
