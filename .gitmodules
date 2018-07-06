@@ -208,3 +208,6 @@
 [submodule "vim-rake"]
 	path = vim-rake
 	url = https://github.com/tpope/vim-rake
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
