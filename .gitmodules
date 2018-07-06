@@ -9,7 +9,7 @@
 	url = https://github.com/rking/ag.vim.git
 [submodule "vim-colorschemes"]
 	path = vim-colorschemes
-	url = https://github.com/jcarley/vim-colorschemes.git
+	url = https://github.com/timcmartin/vim-colorschemes.git
 [submodule "funcoo.vim"]
 	path = funcoo.vim
 	url = https://github.com/rizzatti/funcoo.vim.git
@@ -196,3 +196,15 @@
 [submodule "auto-pairs"]
 	path = auto-pairs
 	url = git@github.com:jiangmiao/auto-pairs.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = https://github.com/tpope/vim-bundler
+[submodule "vim-dispatch"]
+	path = vim-dispatch
+	url = https://github.com/tpope/vim-dispatch
+[submodule "vim-rake"]
+	path = vim-rake
+	url = https://github.com/tpope/vim-rake
