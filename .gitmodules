@@ -115,9 +115,6 @@
 [submodule "vim-ragtag"]
 	path = vim-ragtag
 	url = https://github.com/tpope/vim-ragtag.git
-[submodule "vim-rails"]
-	path = vim-rails
-	url = https://github.com/tpope/vim-rails.git
 [submodule "vim-railscasts"]
 	path = vim-railscasts
 	url = https://github.com/jgdavey/vim-railscasts.git
