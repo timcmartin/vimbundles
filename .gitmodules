@@ -208,3 +208,9 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs.git
+[submodule "vim-closetag"]
+	path = vim-closetag
+	url = git@github.com:alvan/vim-closetag.git
