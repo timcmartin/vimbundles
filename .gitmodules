@@ -153,7 +153,7 @@
 	url = https://github.com/skalnik/vim-vroom.git
 [submodule "vimwiki"]
 	path = vimwiki
-	url = https://github.com/vim-scripts/vimwiki.git
+	url = git@github.com:vimwiki/vimwiki.git
 [submodule "rubocop"]
 	path = rubocop
 	url = git@github.com:bbatsov/rubocop
