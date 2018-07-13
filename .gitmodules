@@ -214,3 +214,12 @@
 [submodule "vim-closetag"]
 	path = vim-closetag
 	url = git@github.com:alvan/vim-closetag.git
+[submodule "javascript-libraries-syntax.vim"]
+	path = javascript-libraries-syntax.vim
+	url = git@github.com:othree/javascript-libraries-syntax.vim.git
+[submodule "angular-vim-snippets"]
+	path = angular-vim-snippets
+	url = git@github.com:matthewsimo/angular-vim-snippets.git
+[submodule "jasmine.vim"]
+	path = jasmine.vim
+	url = git@github.com:claco/jasmine.vim.git
