@@ -223,3 +223,9 @@
 [submodule "jasmine.vim"]
 	path = jasmine.vim
 	url = git@github.com:claco/jasmine.vim.git
+[submodule "wstrip.vim"]
+	path = wstrip.vim
+	url = git@github.com:tweekmonster/wstrip.vim.git
+[submodule "vim-gutentags"]
+	path = vim-gutentags
+	url = git@github.com:ludovicchabant/vim-gutentags.git
