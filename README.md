@@ -38,8 +38,10 @@ git submodule sync --recursive
 ## Remove a Submodule
 1. Remove from .gitmodules
 2. Stage the change: `git add .gitmodules`
-3. Delete from .git/config
+3. Delete from .git/config (~/Dotfiles/.git/modules/vimbundles/config)
 4. `git rm --cached <path_to_submodule>`
-5. `rm -rf .git/modules/<path_to_submodule>`
+5. From vimbundles dir: `rm -rf ../.git/modules/vimbundles/modules/<path_to_submodule>`
+5. From vimbundles dir: `rm -rf <path_to_submodule>`
 6. `git commit -m "Removed Submodule"`
 7. Delete the now untracked submodule files: `rm -rf <path_to_submodule`
+
