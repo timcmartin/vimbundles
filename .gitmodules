@@ -220,9 +220,6 @@
 [submodule "angular-vim-snippets"]
 	path = angular-vim-snippets
 	url = git@github.com:matthewsimo/angular-vim-snippets.git
-[submodule "jasmine.vim"]
-	path = jasmine.vim
-	url = git@github.com:claco/jasmine.vim.git
 [submodule "vim-gutentags"]
 	path = vim-gutentags
 	url = git@github.com:ludovicchabant/vim-gutentags.git
