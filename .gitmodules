@@ -223,3 +223,9 @@
 [submodule "vim-gutentags"]
 	path = vim-gutentags
 	url = git@github.com:ludovicchabant/vim-gutentags.git
+[submodule "vim-markdown-plastic"]
+	path = vim-markdown-plastic
+	url = git@github.com:plasticboy/vim-markdown.git
+[submodule "vim-renumber"]
+	path = vim-renumber
+	url = git@github.com:clarke/vim-renumber.git
