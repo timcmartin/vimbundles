@@ -1,9 +1,6 @@
 [submodule "dash.vim"]
 	path = dash.vim
 	url = https://github.com/rizzatti/dash.vim.git
-[submodule "ctrlp.vim"]
-	path = ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim.git
 [submodule "ag.vim"]
 	path = ag.vim
 	url = https://github.com/rking/ag.vim.git
@@ -229,3 +226,6 @@
 [submodule "vim-renumber"]
 	path = vim-renumber
 	url = git@github.com:clarke/vim-renumber.git
+[submodule "fzf.vim"]
+	path = fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
