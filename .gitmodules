@@ -229,3 +229,15 @@
 [submodule "fzf.vim"]
 	path = fzf.vim
 	url = git@github.com:junegunn/fzf.vim.git
+[submodule "vim-autotag"]
+	path = vim-autotag
+	url = git@github.com:craigemery/vim-autotag.git
+[submodule "CoffeeTags"]
+	path = CoffeeTags
+	url = git@github.com:lukaszkorecki/CoffeeTags.git
+[submodule "vim-code-dark"]
+	path = vim-code-dark
+	url = git@github.com:tomasiser/vim-code-dark.git
+[submodule "vim-afterglow"]
+	path = vim-afterglow
+	url = git@github.com:danilo-augusto/vim-afterglow.git
