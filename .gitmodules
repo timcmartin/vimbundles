@@ -241,3 +241,6 @@
 [submodule "vim-afterglow"]
 	path = vim-afterglow
 	url = git@github.com:danilo-augusto/vim-afterglow.git
+[submodule "vim-matchup"]
+	path = vim-matchup
+	url = git@github.com:andymass/vim-matchup.git
