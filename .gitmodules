@@ -217,9 +217,6 @@
 [submodule "angular-vim-snippets"]
 	path = angular-vim-snippets
 	url = git@github.com:matthewsimo/angular-vim-snippets.git
-[submodule "vim-gutentags"]
-	path = vim-gutentags
-	url = git@github.com:ludovicchabant/vim-gutentags.git
 [submodule "vim-markdown-plastic"]
 	path = vim-markdown-plastic
 	url = git@github.com:plasticboy/vim-markdown.git
@@ -229,9 +226,6 @@
 [submodule "fzf.vim"]
 	path = fzf.vim
 	url = git@github.com:junegunn/fzf.vim.git
-[submodule "vim-autotag"]
-	path = vim-autotag
-	url = git@github.com:craigemery/vim-autotag.git
 [submodule "CoffeeTags"]
 	path = CoffeeTags
 	url = git@github.com:lukaszkorecki/CoffeeTags.git
