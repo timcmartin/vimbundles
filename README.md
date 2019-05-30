@@ -19,6 +19,8 @@ git submodule init
 git submodule foreach --recursive git fetch
 ```
 
+git submodule foreach --recursive git pull
+
 ## To Add More Submodules
 
 ```sh
