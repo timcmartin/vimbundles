@@ -94,9 +94,6 @@
 [submodule "vim-json"]
 	path = vim-json
 	url = https://github.com/leshill/vim-json.git
-[submodule "vim-markdown"]
-	path = vim-markdown
-	url = https://github.com/tpope/vim-markdown.git
 [submodule "vim-nerdtree-tabs"]
 	path = vim-nerdtree-tabs
 	url = https://github.com/jistr/vim-nerdtree-tabs.git
@@ -244,3 +241,6 @@
 [submodule "vim-gutentags"]
 	path = vim-gutentags
 	url = https://github.com/ludovicchabant/vim-gutentags
+[submodule "ale"]
+	path = ale
+	url = git@github.com:dense-analysis/ale.git
