@@ -223,9 +223,6 @@
 [submodule "fzf.vim"]
 	path = fzf.vim
 	url = git@github.com:junegunn/fzf.vim.git
-[submodule "CoffeeTags"]
-	path = CoffeeTags
-	url = git@github.com:lukaszkorecki/CoffeeTags.git
 [submodule "vim-code-dark"]
 	path = vim-code-dark
 	url = git@github.com:tomasiser/vim-code-dark.git
