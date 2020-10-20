@@ -223,9 +223,6 @@
 [submodule "fzf.vim"]
 	path = fzf.vim
 	url = https://github.com/junegunn/fzf.vim.git
-[submodule "vim-code-dark"]
-	path = vim-code-dark
-	url = https://github.com/tomasiser/vim-code-dark.git
 [submodule "vim-afterglow"]
 	path = vim-afterglow
 	url = https://github.com/danilo-augusto/vim-afterglow.git
