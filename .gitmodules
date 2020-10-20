@@ -147,28 +147,28 @@
 	url = https://github.com/skalnik/vim-vroom.git
 [submodule "vimwiki"]
 	path = vimwiki
-	url = git@github.com:vimwiki/vimwiki.git
+	url = https://github.com/vimwiki/vimwiki.git
 [submodule "rubocop"]
 	path = rubocop
-	url = git@github.com:bbatsov/rubocop
+	url = https://@github.com/bbatsov/rubocop
 [submodule "vim-http-client"]
 	path = vim-http-client
-	url = git@github.com:aquach/vim-http-client
+	url = https://github.com/aquach/vim-http-client
 [submodule "tmuxline.vim"]
 	path = tmuxline.vim
-	url = git@github.com:edkolev/tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim
 [submodule "vim-airline"]
 	path = vim-airline
-	url = git@github.com:bling/vim-airline
+	url = https://github.com/bling/vim-airline
 [submodule "vim-airlineish"]
 	path = vim-airlineish
-	url = git@github.com:paranoida/vim-airlineish.git
+	url = https://github.com/paranoida/vim-airlineish.git
 [submodule "switch.vim"]
 	path = switch.vim
-	url = git@github.com:AndrewRadev/switch.vim.git
+	url = https://github.com/AndrewRadev/switch.vim.git
 [submodule "vim-windowswap"]
 	path = vim-windowswap
-	url = git@github.com:wesQ3/vim-windowswap.git
+	url = https://github.com/wesQ3/vim-windowswap.git
 [submodule "calendar-vim"]
 	path = calendar-vim
 	url = git://github.com/mattn/calendar-vim
@@ -177,16 +177,16 @@
 	url = https://github.com/posva/vim-vue.git
 [submodule "vim-dotenv"]
 	path = vim-dotenv
-	url = git@github.com:tpope/vim-dotenv.git
+	url = https://github.com/tpope/vim-dotenv.git
 [submodule "vim-angular"]
 	path = vim-angular
-	url = git@github.com:burnettk/vim-angular.git
+	url = https://github.com/burnettk/vim-angular.git
 [submodule "typescript-vim"]
 	path = typescript-vim
-	url = git@github.com:leafgarland/typescript-vim.git
+	url = https://github.com/leafgarland/typescript-vim.git
 [submodule "vim-js-pretty-template"]
 	path = vim-js-pretty-template
-	url = git@github.com:Quramy/vim-js-pretty-template.git
+	url = https://github.com/Quramy/vim-js-pretty-template.git
 [submodule "vim-rails"]
 	path = vim-rails
 	url = https://github.com/tpope/vim-rails.git
@@ -201,43 +201,43 @@
 	url = https://github.com/tpope/vim-rake
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
-	url = git@github.com:vim-airline/vim-airline-themes.git
+	url = https://github.com/vim-airline/vim-airline-themes.git
 [submodule "auto-pairs"]
 	path = auto-pairs
-	url = git@github.com:jiangmiao/auto-pairs.git
+	url = https://github.com/jiangmiao/auto-pairs.git
 [submodule "vim-closetag"]
 	path = vim-closetag
-	url = git@github.com:alvan/vim-closetag.git
+	url = https://github.com/alvan/vim-closetag.git
 [submodule "javascript-libraries-syntax.vim"]
 	path = javascript-libraries-syntax.vim
-	url = git@github.com:othree/javascript-libraries-syntax.vim.git
+	url = https://github.com/othree/javascript-libraries-syntax.vim.git
 [submodule "angular-vim-snippets"]
 	path = angular-vim-snippets
-	url = git@github.com:matthewsimo/angular-vim-snippets.git
+	url = https://github.com/matthewsimo/angular-vim-snippets.git
 [submodule "vim-markdown-plastic"]
 	path = vim-markdown-plastic
-	url = git@github.com:plasticboy/vim-markdown.git
+	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "vim-renumber"]
 	path = vim-renumber
-	url = git@github.com:clarke/vim-renumber.git
+	url = https://github.com/clarke/vim-renumber.git
 [submodule "fzf.vim"]
 	path = fzf.vim
-	url = git@github.com:junegunn/fzf.vim.git
+	url = https://github.com/junegunn/fzf.vim.git
 [submodule "vim-code-dark"]
 	path = vim-code-dark
-	url = git@github.com:tomasiser/vim-code-dark.git
+	url = https://github.com/tomasiser/vim-code-dark.git
 [submodule "vim-afterglow"]
 	path = vim-afterglow
-	url = git@github.com:danilo-augusto/vim-afterglow.git
+	url = https://github.com/danilo-augusto/vim-afterglow.git
 [submodule "vim-matchup"]
 	path = vim-matchup
-	url = git@github.com:andymass/vim-matchup.git
+	url = https://github.com/andymass/vim-matchup.git
 [submodule "vim-colors-solarized"]
 	path = vim-colors-solarized
-	url = git@github.com:altercation/vim-colors-solarized.git
+	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "vim-gutentags"]
 	path = vim-gutentags
 	url = https://github.com/ludovicchabant/vim-gutentags
 [submodule "ale"]
 	path = ale
-	url = git@github.com:dense-analysis/ale.git
+	url = git@github.com/dense-analysis/ale.git
